@@ -1,0 +1,7 @@
+Please downlaod the mnist library for Hand Written Digit Recognition. 
+
+MNIST is a database of handwritten digits available on http://yann.lecun.com/exdb/mnist
+
+Download and extract the file to local folder named "digit-recognizer"
+
+Here i have uploaded a sample in the git in the folder "digit-recognizer"
